@@ -1,15 +1,15 @@
 {
-    "name": "codeguy/upload",
+    "name": "haoyanfei/upload",
     "type": "library",
-    "description": "Handle file uploads with extensible validation and storage strategies",
+    "description": "only for test composer",
     "keywords": ["upload", "validation", "file"],
-    "homepage": "http://github.com/codeguy/Upload",
+    "homepage": "http://github.com/haoyanfei/Upload",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "email": "info@joshlockhart.com",
-            "homepage": "https://github.com/codeguy/"
+            "name": "haoyanfei",
+            "email": "haoyanfei@outlook.com.com",
+            "homepage": "https://github.com/haoyanfei/"
         }
     ],
     "require": {
